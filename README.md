@@ -209,3 +209,4 @@ Strict mode recomended with caveat(warnings):
   package with care()
 
 #Functions
+  functions
