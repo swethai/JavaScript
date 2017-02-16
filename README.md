@@ -207,3 +207,5 @@ Switching on stict mode:
 Strict mode recomended with caveat(warnings):
   Enabling strict mode for existing code may break it.
   package with care()
+
+#Functions
